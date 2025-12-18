@@ -1,0 +1,6 @@
+{
+  "moderation": {
+    "adminRoles": ["Admin", "Royal Guard"],
+    "logChannel": "mod-logs"
+  }
+}
